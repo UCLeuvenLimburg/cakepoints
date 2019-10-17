@@ -1,4 +1,4 @@
-- name: King Marty
+- name: King Marti
   earned: 3
   paid: 1
 - name: Jasper Vandenbergen
@@ -71,5 +71,8 @@
   earned: 1
   paid: 0
 - name: Jelmer Berghs
+  earned: 1
+  paid: 0
+- name: Simon Allaert
   earned: 1
   paid: 0
