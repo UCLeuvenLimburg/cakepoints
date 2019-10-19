@@ -1,61 +1,49 @@
-- name: King Marty
+- name: King Marti
   earned: 3
   paid: 1
-- name: Vandenbergen Jasper
+- name: Jasper Vandenbergen
   earned: 6
   paid: 1
-- name: Roskams Yannick
-  earned: 2
-  paid: 1
-- name: Wellens Lennerd
+- name: Lennerd Wellens
   earned: 1
   paid: 0
-- name: Verbaendert Liwady
+- name: Liwady Verbaendert
   earned: 13
   paid: 1
-- name: Engelen Wouter
+- name: Wouter Engelen
   earned: 9
   paid: 5
-- name: Backiel Aimée
-  earned: 3
-  paid: 3
 - name: Blenda Kaja
   earned: 2
   paid: 2
-- name: Daniel Tom
-  earned: 2
-  paid: 2
-- name: Vanthuyne Kevin
-  earned: 2
-  paid: 1
 - name: Thielemans Wouter
   earned: 1
   paid: 1
-- name: Yolartiran Sinan
+- name: Sinan Yolartiran
   earned: 6
   paid: 4
-- name: Ausloos Lowie
+- name: Lowie Ausloos
   earned: 1
   paid: 1
-- name: Langui Kim
+- name: Kim Langui
   earned: 10
   paid: 4
-- name: Engelen Sandis
+- name: Sandis Engelen
   earned: 3
   paid: 2
-- name: Van den Briel Abel
+- name: Abel Van den Briel
   earned: 11
   paid: 5
-- name: De Bie Robbe
+- name: Robbe De Bie
   earned: 1
   paid: 1
-- name: Peeters Karel
+- name: Karel Peeters
   earned: 7
   paid: 4
-- name: Duthoit Joppe
+- name: Joppe Duthoit
   earned: 4
   paid: 1
-- name: Braine Arnold
+- name: Arnold Braine
   earned: 1
   paid: 0
 - name: Jaron Trossaert
@@ -79,3 +67,12 @@
 - name: Lode Debrun
   earned: 31
   paid: 2
+- name: Thomas Nelen
+  earned: 1
+  paid: 0
+- name: Jelmer Berghs
+  earned: 1
+  paid: 0
+- name: Simon Allaert
+  earned: 1
+  paid: 0
