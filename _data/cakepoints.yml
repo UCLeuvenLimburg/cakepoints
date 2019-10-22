@@ -65,7 +65,7 @@
   earned: 1
   paid: 1
 - name: Lode Debrun
-  earned: 31
+  earned: 33
   paid: 2
 - name: Thomas Nelen
   earned: 1
@@ -76,3 +76,5 @@
 - name: Simon Allaert
   earned: 1
   paid: 0
+- name: Dieter Van der Zwalmen
+  paid: 1
