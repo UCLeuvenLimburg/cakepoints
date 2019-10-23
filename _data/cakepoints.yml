@@ -77,4 +77,5 @@
   earned: 1
   paid: 0
 - name: Dieter Van der Zwalmen
-  paid: 1
+  earned: 1
+  paid: 0
