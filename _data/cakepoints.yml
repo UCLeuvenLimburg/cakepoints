@@ -45,7 +45,7 @@
   paid: 1
 - name: Arnold Braine
   earned: 3
-  paid: 0
+  paid: 1
 - name: Jaron Trossaert
   earned: 2
   paid: 0
@@ -60,7 +60,7 @@
   paid: 3
 - name: Milan Brouns
   earned: 2
-  paid: 0
+  paid: 1
 - name: Jaro Deklerck
   earned: 1
   paid: 1
@@ -78,4 +78,4 @@
   paid: 0
 - name: Dieter Van der Zwalmen
   earned: 1
-  paid: 0
+  paid: 1
