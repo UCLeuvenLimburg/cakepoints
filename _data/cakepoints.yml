@@ -39,13 +39,13 @@
   paid: 1
 - name: Karel Peeters
   earned: 7
-  paid: 4
+  paid: 5
 - name: Joppe Duthoit
   earned: 4
   paid: 1
 - name: Arnold Braine
   earned: 3
-  paid: 0
+  paid: 1
 - name: Jaron Trossaert
   earned: 2
   paid: 0
@@ -54,16 +54,16 @@
   paid: 0
 - name: Dieter Dehaes
   earned: 23
-  paid: 3
+  paid: 4
 - name: Dries Eeckelo
   earned: 5
-  paid: 3
+  paid: 4
 - name: Milan Brouns
   earned: 2
-  paid: 0
-- name: Jaro Deklerck
-  earned: 1
   paid: 1
+- name: Jaro Deklerck
+  earned: 2
+  paid: 2
 - name: Lode Debrun
   earned: 33
   paid: 2
@@ -77,4 +77,5 @@
   earned: 1
   paid: 0
 - name: Dieter Van der Zwalmen
+  earned: 1
   paid: 1
