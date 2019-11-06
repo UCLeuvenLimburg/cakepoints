@@ -1,3 +1,6 @@
+- name: Lode Debrun
+  earned: 34
+  paid: 2
 - name: King Marti
   earned: 3
   paid: 1
@@ -63,9 +66,6 @@
   paid: 1
 - name: Jaro Deklerck
   earned: 2
-  paid: 2
-- name: Lode Debrun
-  earned: 33
   paid: 2
 - name: Thomas Nelen
   earned: 1
