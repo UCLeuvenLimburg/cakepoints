@@ -14,34 +14,6 @@
                 Still Due
             </th>
         </tr>
-        <tr>
-            <td>
-                Aimée Backiel
-            </td>
-            <td>
-                &#8501;<sub>1</sub> + 3
-            </td>
-            <td>
-                5
-            </td>
-            <td>
-                &#8501;<sub>1</sub> - 2
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Frédéric Vogels
-            </td>
-            <td>
-                &#8501;<sub>0</sub>
-            </td>
-            <td>
-                0
-            </td>
-            <td>
-                &#8501;<sub>0</sub>
-            </td>
-        </tr>
 {% assign sorted = site.data.cakepoints | sort: 'earned' | reverse %}
 {% for member in sorted %}
         <tr>
