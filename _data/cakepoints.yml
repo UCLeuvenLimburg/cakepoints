@@ -8,7 +8,7 @@
   earned: 1
   paid: 0
 - name: King Marti
-  earned: 3
+  earned: 5
   paid: 1
 - name: Jasper Vandenbergen
   earned: 6
@@ -49,6 +49,9 @@
 - name: Karel Peeters
   earned: 7
   paid: 5
+- name: Jonas De Boeck
+  earned: 1
+  paid: 0
 - name: Joppe Duthoit
   earned: 4
   paid: 1
