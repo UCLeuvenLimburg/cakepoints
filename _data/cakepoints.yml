@@ -1,6 +1,3 @@
-- name: Lode Debrun
-  earned: 83
-  paid: 14
 - name: Stijne Paepe
   earned: 1
   paid: 0
@@ -13,36 +10,18 @@
 - name: King Marti
   earned: 17
   paid: 1
-- name: Jasper Vandenbergen
-  earned: 6
-  paid: 2
 - name: Lennerd Wellens
   earned: 1
   paid: 0
-- name: Liwady Verbaendert
-  earned: 13
-  paid: 1
-- name: Wouter Engelen
-  earned: 10
-  paid: 5
 - name: Blenda Kaja
   earned: 2
   paid: 2
 - name: Thielemans Wouter
   earned: 1
   paid: 1
-- name: Sinan Yolartiran
-  earned: 6
-  paid: 4
-- name: Lowie Ausloos
-  earned: 1
-  paid: 1
 - name: Kim Langui
   earned: 10
   paid: 4
-- name: Sandis Engelen
-  earned: 3
-  paid: 2
 - name: Abel Van den Briel
   earned: 24
   paid: 24
@@ -58,33 +37,15 @@
 - name: Joppe Duthoit
   earned: 4
   paid: 1
-- name: Arnold Braine
-  earned: 3
-  paid: 1
 - name: Jaron Trossaert
   earned: 2
   paid: 2
-- name: Emil De Keyser
-  earned: 1
-  paid: 0
-- name: Dieter Dehaes
-  earned: 23
-  paid: 7
-- name: Dries Eeckelo
-  earned: 5
-  paid: 5
 - name: Milan Brouns
   earned: 2
   paid: 1
 - name: Jaro Deklerck
   earned: 2
   paid: 2
-- name: Thomas Nelen
-  earned: 1
-  paid: 1
-- name: Jelmer Berghs
-  earned: 1
-  paid: 0
 - name: Simon Allaert
   earned: 1
   paid: 0
