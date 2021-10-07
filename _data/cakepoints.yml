@@ -2,8 +2,8 @@
   earned: 1
   paid: 0
 - name: Yenthe Bruynseels
-  earned: 3
-  paid: 0
+  earned: 4
+  paid: 1
 - name: Jens Gervais
   earned: 1
   paid: 0
@@ -24,22 +24,16 @@
   paid: 4
 - name: Abel Van den Briel
   earned: 24
-  paid: 24
+  paid: 25
 - name: Robbe De Bie
   earned: 5
   paid: 2
-- name: Karel Peeters
-  earned: 7
-  paid: 5
 - name: Jonas De Boeck
   earned: 2
   paid: 0
 - name: Joppe Duthoit
   earned: 4
   paid: 1
-- name: Jaron Trossaert
-  earned: 2
-  paid: 2
 - name: Milan Brouns
   earned: 2
   paid: 1
