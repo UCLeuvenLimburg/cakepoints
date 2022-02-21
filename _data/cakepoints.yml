@@ -55,9 +55,6 @@
 - name: Ben Avermate
   earned: 1
   paid: 0
-- name: Siebe Cooreman
-  earned: 6
-  paid: 0
 - name: Bjorn Vandebergen
   earned: 4
   paid: 0
@@ -108,4 +105,7 @@
   paid: 0
 - name: Cristina Certã Marques
   earned: 1
+  paid: 0
+- name: Siebe Cooreman
+  earned: 7
   paid: 0
