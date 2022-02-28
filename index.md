@@ -4,6 +4,6 @@
 
 layout: default
 ---
-# Piece Of Cake Points
+# Cake Piece Points
 
 {% include table.html %}
