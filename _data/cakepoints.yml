@@ -1,90 +1,45 @@
-- name: Lode Debrun
-  earned: 83
-  paid: 14
 - name: Stijne Paepe
   earned: 1
   paid: 0
 - name: Yenthe Bruynseels
-  earned: 3
-  paid: 0
+  earned: 5
+  paid: 1
 - name: Jens Gervais
   earned: 1
   paid: 0
 - name: King Marti
   earned: 17
   paid: 1
-- name: Jasper Vandenbergen
-  earned: 6
-  paid: 2
 - name: Lennerd Wellens
   earned: 1
   paid: 0
-- name: Liwady Verbaendert
-  earned: 13
-  paid: 1
-- name: Wouter Engelen
-  earned: 10
-  paid: 5
 - name: Blenda Kaja
   earned: 2
   paid: 2
 - name: Thielemans Wouter
   earned: 1
   paid: 1
-- name: Sinan Yolartiran
-  earned: 6
-  paid: 4
-- name: Lowie Ausloos
-  earned: 1
-  paid: 1
 - name: Kim Langui
   earned: 10
   paid: 4
-- name: Sandis Engelen
-  earned: 3
-  paid: 2
 - name: Abel Van den Briel
   earned: 24
-  paid: 6
+  paid: 25
 - name: Robbe De Bie
   earned: 5
   paid: 2
-- name: Karel Peeters
-  earned: 7
-  paid: 5
 - name: Jonas De Boeck
   earned: 2
   paid: 0
 - name: Joppe Duthoit
   earned: 4
   paid: 1
-- name: Arnold Braine
-  earned: 3
-  paid: 1
-- name: Jaron Trossaert
-  earned: 2
-  paid: 2
-- name: Emil De Keyser
-  earned: 1
-  paid: 0
-- name: Dieter Dehaes
-  earned: 23
-  paid: 7
-- name: Dries Eeckelo
-  earned: 5
-  paid: 5
 - name: Milan Brouns
   earned: 2
   paid: 1
 - name: Jaro Deklerck
   earned: 2
   paid: 2
-- name: Thomas Nelen
-  earned: 1
-  paid: 1
-- name: Jelmer Berghs
-  earned: 1
-  paid: 0
 - name: Simon Allaert
   earned: 1
   paid: 0
@@ -100,9 +55,6 @@
 - name: Ben Avermate
   earned: 1
   paid: 0
-- name: Siebe Cooreman
-  earned: 5
-  paid: 0
 - name: Bjorn Vandebergen
   earned: 4
   paid: 0
@@ -113,5 +65,50 @@
   earned: 1
   paid: 0
 - name: Gerben Piot
+  earned: 2
+  paid: 0
+- name: Michiel Janssen
   earned: 1
+  paid: 1
+- name: Thao De Clercq
+  earned: 2
+  paid: 1
+- name: Baljit Singh
+  earned: 1
+  paid: 0
+- name: Arthur Coget
+  earned: 1
+  paid: 0
+- name: Rafael Hoek
+  earned: 2
+  paid: 0
+- name: Hendrik Rummens
+  earned: 2
+  paid: 0
+- name: Ward Claes
+  earned: 1
+  paid: 0
+- name: Ferre Verheyen
+  earned: 1
+  paid: 0
+- name: Eline Schepers
+  earned: 1
+  paid: 0
+- name: Vito Van Hecke
+  earned: 1
+  paid: 0
+- name: Jonas De Winter
+  earned: 1
+  paid: 0
+- name: Maarten Van Briel
+  earned: 1
+  paid: 0
+- name: Cristina Certã Marques
+  earned: 1
+  paid: 0
+- name: Siebe Cooreman
+  earned: 9
+  paid: 0
+- name: Kiana Truyens
+  earned: 0
   paid: 0
