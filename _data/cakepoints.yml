@@ -1,7 +1,7 @@
 - name: Lode Debrun
   earned: 83
   paid: 14
-- name: Stijne Paepe
+- name: Stijn Paepe
   earned: 1
   paid: 0
 - name: Yenthe Bruynseels
@@ -120,4 +120,7 @@
   paid: 0
 - name: Fergal Whyte
   earned: 3
+  paid: 0
+- name: Ruben Bottu
+  earned: 2
   paid: 0
